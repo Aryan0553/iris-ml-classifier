@@ -14,7 +14,6 @@ The model is trained using **Logistic Regression**, evaluates **accuracy**, and 
 - Beginner-friendly & clean code
 
 ---
-
 ## 🧠 Machine Learning Details
 - **Algorithm:** Logistic Regression
 - **Type:** Supervised Learning (Classification)
