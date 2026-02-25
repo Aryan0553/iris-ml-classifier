@@ -21,6 +21,7 @@ The model is trained using **Logistic Regression**, evaluates **accuracy**, and 
 - **Library:** scikit-learn
 
 ---
+
 ## ⚙️ Requirements
 Install dependencies using:
 ```bash
